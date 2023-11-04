@@ -1,6 +1,6 @@
 module example.com/my-new-hinode-site
 
-go 1.21.2
+go 1.21
 
 require (
 	github.com/airbnb/lottie-web v5.12.2+incompatible // indirect
