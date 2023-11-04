@@ -1,4 +1,4 @@
-name: Matt Test Deploy to GitHub pages
+name: Matt Test simple script action
 on:
   push:
     # this is the branch where you develop your site
